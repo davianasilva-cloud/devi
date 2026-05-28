@@ -1,0 +1,15 @@
+body
+max-width: 800px;]
+margin: 0 auto;
+}
+
+header{
+background-color: aqua;
+color: black;
+text-align: center;
+}
+
+main{
+    background-color: black;
+color: aliceblue;
+}
